@@ -101,7 +101,7 @@
 
 当該ドイツ判例の概略は、橋本論文で引用されている小俣勝治名誉教授の論文で読むことができます。小俣勝治「ドイツにおける労働時間法に関する最近の判例（3）」85頁以下
 
-[ドイツにおける労働時間法に関する最近の判例（3）](https://fukushi-shisetsu.com/houshutanka/)
+[ドイツにおける労働時間法に関する最近の判例（3）](https://minnanosaiban.github.io/sazankakai/_static/36-6.pdf)
 
 `````{card} 
 
