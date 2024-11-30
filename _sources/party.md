@@ -1,3 +1,5 @@
+[<i class="fa-solid fa-house"></i>](https://minnanosaiban.github.io/sazankakai/)
+
 # <span style="color: #8045e5;">さざんか会事件解説</span>
 
 <span style="font-size: 24px;">代理人の黒葛原歩先生の解説、原告の補足もあります。</span>
@@ -127,7 +129,7 @@
 
 当該ドイツ判例の概略は、橋本論文で引用されている小俣勝治名誉教授の論文で読むことができます。小俣勝治「ドイツにおける労働時間法に関する最近の判例（3）」85頁以下
 
-[ドイツにおける労働時間法に関する最近の判例（3）](_static/36-6.pdf)
+[ドイツにおける労働時間法に関する最近の判例（3）](https://minnanosaiban.github.io/sazankakai/_static/36-6.pdf)
 
 <div class="base">
 

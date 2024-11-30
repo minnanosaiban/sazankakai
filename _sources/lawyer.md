@@ -1,3 +1,5 @@
+[<i class="fa-solid fa-house"></i>](https://minnanosaiban.github.io/sazankakai/)
+
 # <span style="color: #8045e5;">法曹関係者の見解</span>
 
 ## 労働新聞 ニュース
