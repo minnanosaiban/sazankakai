@@ -11,9 +11,15 @@
 
 ## 芦原一郎弁護士の解説
 ---
+
+```{raw} html
 <div class="twitter-tweet">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VNs17Sfw01I?si=0oQBa6Ok0TveQFPL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+```
 
 ## 
+[![Jupyter Book Badge](https://jupyterbook.org/_images/badge.svg)](https://jupyterbook.org)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
