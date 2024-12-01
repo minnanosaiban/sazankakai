@@ -1,4 +1,4 @@
-[<i class="fa-solid fa-house"></i>](https://minnanosaiban.github.io/sazankakai/)
+<span style="color: #8045e5;"><i class="fa-solid fa-house"></i></span> [Home](index)
 
 # <span style="color: #8045e5;">法曹関係者の見解</span>
 
@@ -15,5 +15,5 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VNs17Sfw01I?si=0oQBa6Ok0TveQFPL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-## <span style="color: #FFFFFF;">さざんか会の裁判、黒葛原歩先生による解説</span>
+## 
 
