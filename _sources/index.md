@@ -16,7 +16,9 @@
 :link: party
 :link-type: doc
 :class-header: bg-light text-center
-**さざんか会事件解説**
+
+<span style="color: #8045e5;"><b>さざんか会事件解説</b></span>
+
 ^^^
 さざんか会事件の原告および代理人による解説を記載しています。
 :::
@@ -24,7 +26,9 @@
 :link: lawyer
 :link-type: doc
 :class-header: bg-light text-center
-**法曹関係者の見解**
+
+<span style="color: #8045e5;"><b>法曹関係者の見解</b></span>
+
 ^^^
 さざんか会事件に関する法曹関係者の見解やニュースのリンクです。
 :::
