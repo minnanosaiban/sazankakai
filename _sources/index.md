@@ -4,39 +4,39 @@
 
 ## ウェブサイトについて
 ---
-本ウェブサイトは、当事者と代理人の「さざんか会事件解説」、「法曹関係者の見解」で構成されています。
+「[さざんか会事件解説](party)」、「[法曹関係者の見解](lawyer)」で構成されています。
 
 <div class="base">
 
 ::::{grid} 1 1 2 2
-:class-container: text-left
+:class-container: text-center
 :gutter: 3
 
 :::{grid-item-card}
 :link: party
 :link-type: doc
-:class-header: bg-light text-center
+:class-header: bg-light
 
 <span style="color: #8045e5;"><b>さざんか会事件解説</b></span>
 
 ^^^
-さざんか会事件の原告および代理人による解説を記載しています。
+原告および代理人の解説です
 :::
 :::{grid-item-card}
 :link: lawyer
 :link-type: doc
-:class-header: bg-light text-center
+:class-header: bg-light
 
 <span style="color: #8045e5;"><b>法曹関係者の見解</b></span>
 
 ^^^
-さざんか会事件に関する法曹関係者の見解やニュースのリンクです。
+法曹関係者の見解のリンクです
 :::
 
 ::::
 </div>
 
-千葉県内の社会福祉法人さざんか会で働いていた労働者が、泊まり勤務中の夜勤時間帯の残業代支払いなどを求めた裁判について、原告および代理人の黒葛原歩先生による解説をまとめています。本件訴訟は、労働時間性が認められ、原告が勝訴しました。
+千葉県内の社会福祉法人さざんか会で働いていた労働者が、泊まり勤務中の夜勤時間帯の残業代支払いなどを求めた裁判について、代理人の黒葛原歩先生の解説をまとめています。原告本人もコメントを寄せています。本件訴訟は、労働時間性が認められ、原告が勝訴しました。
 
 ## さざんか会事件とは
 ---
