@@ -85,20 +85,6 @@ p {
   padding-left:1em;
   text-indent:-1em;
 }
-.sd-card-purple {
-  background-clip: border-box;
-  background-color: var(--sd-color-card-background);
-  border: 3.2px solid #8045e533;
-  border-radius: .25rem;
-  color: var(--sd-color-card-text);
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  min-width: 0;
-  position: relative;
-  word-wrap: break-word;
-}
 
 @media only screen and (max-width: 767px) {
   h1 {
@@ -151,8 +137,8 @@ p {
     margin-bottom:16px;
     }
   .sd-card-text {
-    margin-right: 8px;
-    margin-left: 8px;
+    margin-right: 0;
+    margin-left: 0;
     font-size:14px;
     }
   .twitter-tweet {

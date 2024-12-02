@@ -2,11 +2,11 @@
 
 # <span style="color: #8045e5;">法曹関係者の見解</span>
 
-## 労働新聞 ニュース
+## 師子角允彬弁護士の解説
 ---
 
 ```{raw} html
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">千葉県内の社会福祉法人で働いていた労働者が、泊まり勤務における夜勤時間帯の残業代支払いなどを求めた裁判で、東京高等裁判所は一審判決を大きく変更し、同法人に650万円の支払いを命じた。<a href="https://t.co/sBFTNrpJ84">https://t.co/sBFTNrpJ84</a></p>&mdash; 労働新聞ニュース (@RodoShimbunNews) <a href="https://twitter.com/RodoShimbunNews/status/1816465424894058620?ref_src=twsrc%5Etfw">July 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">はてなブログに投稿しました<br>グループホームの泊まり勤務（夜勤時間帯）の労働時間性が認められた例 - 弁護士　師子角允彬のブログ <a href="https://t.co/fU2nX3rMU6">https://t.co/fU2nX3rMU6</a><a href="https://twitter.com/hashtag/%E3%81%AF%E3%81%A6%E3%81%AA%E3%83%96%E3%83%AD%E3%82%B0?src=hash&amp;ref_src=twsrc%5Etfw">#はてなブログ</a></p>&mdash; 弁護士 師子角允彬 (@n_shishikado) <a href="https://twitter.com/n_shishikado/status/1720095124020236408?ref_src=twsrc%5Etfw">November 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ```
 
 ## 芦原一郎弁護士の解説
@@ -14,7 +14,7 @@
 
 ```{raw} html
 <div class="twitter-tweet">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VNs17Sfw01I?si=0oQBa6Ok0TveQFPL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VNs17Sfw01I?si=vVmioNPuK20WSI6X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 ```
 
