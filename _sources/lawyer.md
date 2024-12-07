@@ -2,6 +2,8 @@
 
 # <span style="color: #8045e5;">法曹関係者の見解</span>
 
+<span style="font-size: 24px;">労働時間制に関する法曹関係者の見解のリンクです</span>
+
 ## 師子角允彬弁護士の解説
 ---
 

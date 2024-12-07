@@ -9,34 +9,34 @@
 <div class="base">
 
 ::::{grid} 1 1 2 2
-:class-container: text-center
+:class-container: text-left
 :gutter: 3
 
 :::{grid-item-card}
 :link: party
 :link-type: doc
-:class-header: bg-light
+:class-header: bg-light text-center
 
 <span style="color: #8045e5;"><b>さざんか会事件解説</b></span>
 
 ^^^
-原告および代理人の解説です
+代理人の黒葛原歩弁護士の解説、原告本人のコメントも
 :::
 :::{grid-item-card}
 :link: lawyer
 :link-type: doc
-:class-header: bg-light
+:class-header: bg-light text-center
 
 <span style="color: #8045e5;"><b>法曹関係者の見解</b></span>
 
 ^^^
-法曹関係者の見解のリンクです
+労働時間制に関する法曹関係者の見解のリンクです
 :::
 
 ::::
 </div>
 
-千葉県内の社会福祉法人さざんか会で働いていた労働者が、泊まり勤務中の夜勤時間帯の残業代支払いなどを求めた裁判について、代理人の黒葛原歩先生の解説をまとめています。原告本人もコメントを寄せています。本件訴訟は、労働時間性が認められ、原告が勝訴しました。
+千葉県内の社会福祉法人さざんか会で働いていた労働者が、泊まり勤務中の夜勤時間帯の残業代支払いなどを求めた裁判について、代理人の黒葛原歩弁護士の解説をまとめています。原告本人もコメントを寄せています。本件訴訟は、労働時間性が認められ、原告が勝訴しました。
 
 ## さざんか会事件とは
 ---
