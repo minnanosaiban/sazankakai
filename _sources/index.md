@@ -4,7 +4,7 @@
 
 ## ウェブサイトについて
 ---
-「[さざんか会事件解説](party)」、「[法曹関係者の見解](lawyer)」で構成されています。
+さざんか会事件の代理人「[黒葛原歩弁護士の解説](party)」、「[法曹関係者の見解](lawyer)」で構成されています。
 
 <div class="base">
 
@@ -17,10 +17,10 @@
 :link-type: doc
 :class-header: bg-light text-center
 
-<span style="color: #8045e5;"><b>さざんか会事件解説</b></span>
+<span style="color: #8045e5;"><b>黒葛原歩弁護士の解説</b></span>
 
 ^^^
-代理人の黒葛原歩弁護士の解説、原告本人のコメントも
+さざんか会事件の解説、原告本人のコメントもあります
 :::
 :::{grid-item-card}
 :link: lawyer

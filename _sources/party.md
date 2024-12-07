@@ -1,16 +1,13 @@
-<span style="color: #8045e5;"><i class="fa-solid fa-house"></i></span> [Home](index)
+# <span style="color: #8045e5;">黒葛原歩弁護士の解説</span>
 
-# <span style="color: #8045e5;">さざんか会事件解説</span>
-
-<span style="font-size: 24px;">代理人の黒葛原歩弁護士の解説、原告本人のコメントも</span>
+<span style="font-size: 24px;">さざんか会事件の解説、原告本人のコメントもあります</span>
 
 ## 控訴審判断の注目点
 ---
 2024年8月23日
 
-```{raw} html
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">昨日、読売さんの記事が出たので少し呟きます。社会福祉法人さざんか会事件（雑誌では社会福祉法人A事件とされます）において控訴審は地裁判決を破棄し、労働者側の請求を全面的に認容しました。一審が夜勤時間の単価を最低賃金以下の金額で合意していたという判断を破棄したものです。</p>&mdash; 黒葛原　歩 (@ATsZRA) <a href="https://twitter.com/ATsZRA/status/1826917425297903765?ref_src=twsrc%5Etfw">August 23, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-```
+
 <p class="idt">
 昨日、読売さんの記事が出たので少し呟きます。社会福祉法人さざんか会事件（雑誌では社会福祉法人A事件とされます）において控訴審は地裁判決を破棄し、労働者側の請求を全面的に認容しました。一審が夜勤時間の単価を最低賃金以下の金額で合意していたという判断を破棄したものです。
 <p class="idt">
@@ -71,9 +68,8 @@
 ---
 2024年8月24日
 
-```{raw} html
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">昨日に続き社会福祉法人さざんか会事件について。高裁勝訴判決を受けて7月4日に記者会見しましたが、そこでは必ず法人側コメントも取って下さいとお願いさせて頂きました。これは、報道の公平性という見地もさることながら、障がい者グループホームへの残業代請求という事件の性格を考慮したものです</p>&mdash; 黒葛原　歩 (@ATsZRA) <a href="https://twitter.com/ATsZRA/status/1827155580802494785?ref_src=twsrc%5Etfw">August 24, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-```
+
 <p class="idt">
 昨日に続き社会福祉法人さざんか会事件について。高裁勝訴判決を受けて7月4日に記者会見しましたが、そこでは必ず法人側コメントも取って下さいとお願いさせて頂きました。これは、報道の公平性という見地もさることながら、障がい者グループホームへの残業代請求という事件の性格を考慮したものです。
 <p class="idt">
@@ -112,9 +108,8 @@
 ---
 2024年8月26日
 
-```{raw} html
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">さざんか会事件について今日は学術的な話を。この事件の判例評釈のうち、千葉地裁判決についての橋本陽子学習院大学教授の評釈は重要です（ジュリスト1593号4頁）。橋本教授はこの評釈で、最低賃金法の規制は単位時間の単価にまで及ぶとされています。これは労働側は事件で使うことがあり得ると思います</p>&mdash; 黒葛原　歩 (@ATsZRA) <a href="https://twitter.com/ATsZRA/status/1827867756282417603?ref_src=twsrc%5Etfw">August 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-```
+
 <p class="idt">
 さざんか会事件について今日は学術的な話を。この事件の判例評釈のうち、千葉地裁判決についての橋本陽子学習院大学教授の評釈は重要です（ジュリスト1593号4頁）。橋本教授はこの評釈で、最低賃金法の規制は単位時間の単価にまで及ぶとされています。これは労働側は事件で使うことがあり得ると思います。
 <p class="idt">
@@ -149,9 +144,8 @@
 ---
 2024年8月27日
 
-```{raw} html
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">さて、今日もちょっとだけ。さざんか会事件の関係で今一つ重要な判例評釈は、土岐将仁「労働密度の薄い夜勤時間帯の労基法上の労働時間性及び割増賃金の算定基礎」（季刊労働法284号）です。<a href="https://t.co/IdvaPg5FLM">https://t.co/IdvaPg5FLM</a></p>&mdash; 黒葛原　歩 (@ATsZRA) <a href="https://twitter.com/ATsZRA/status/1828350418445050097?ref_src=twsrc%5Etfw">August 27, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-```
+
 <p class="idt">
 さて、今日もちょっとだけ。さざんか会事件の関係で今一つ重要な判例評釈は、土岐将仁「労働密度の薄い夜勤時間帯の労基法上の労働時間性及び割増賃金の算定基礎」（季刊労働法284号）です。
 
@@ -191,9 +185,8 @@
 ---
 2024年8月28日
 
-```{raw} html
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">粛々と今日も書いていきます。障がい者グループホームの夜間支援には、夜間支援等体制加算というものがあります。これは現在6区分、(Ⅰ)～(Ⅵ)まであり、(Ⅰ)～(Ⅲ)が基本形、(Ⅰ)が夜勤、(Ⅱ)が宿直、(Ⅲ)がオンコールとなっています。<a href="https://t.co/4nuTcAGHud">https://t.co/4nuTcAGHud</a></p>&mdash; 黒葛原　歩 (@ATsZRA) <a href="https://twitter.com/ATsZRA/status/1828706393383456808?ref_src=twsrc%5Etfw">August 28, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-```
+
 <p class="idt">
 粛々と今日も書いていきます。障がい者グループホームの夜間支援には、夜間支援等体制加算というものがあります。これは現在6区分、(Ⅰ)～(Ⅵ)まであり、(Ⅰ)～(Ⅲ)が基本形、(Ⅰ)が夜勤、(Ⅱ)が宿直、(Ⅲ)がオンコールとなっています。
 
@@ -245,9 +238,8 @@
 ---
 2024年9月2日
 
-```{raw} html
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">さざんか会事件判決解説、もう少し続きます。てか、中々高裁判決の解説ができませんね。今日は地裁判決における夜勤時間の労働時間性の認定について、同業者の方にとって一番参考になるのは多分この話だと思います。</p>&mdash; 黒葛原　歩 (@ATsZRA) <a href="https://twitter.com/ATsZRA/status/1830460969597977051?ref_src=twsrc%5Etfw">September 2, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-```
+
 <p class="idt">
 さざんか会事件判決解説、もう少し続きます。てか、中々高裁判決の解説ができませんね。今日は地裁判決における夜勤時間の労働時間性の認定について、同業者の方にとって一番参考になるのは多分この話だと思います。
 <p class="idt">
@@ -317,9 +309,8 @@
 ---
 2024年9月3日
 
-```{raw} html
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">さざんか会事件について、今日は昨日書かなかったツッコミについて2点。まず、「入居者の多くは、知的障害を有し」とある点。いやいや、障がい者グループホームなんだから、みんな障害ありますがな、と。原告ご本人も仰る、通りこれはちょっと？な説示でしたね。</p>&mdash; 黒葛原　歩 (@ATsZRA) <a href="https://twitter.com/ATsZRA/status/1830798932726988805?ref_src=twsrc%5Etfw">September 3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-```
+
 <p class="idt">
 さざんか会事件について、今日は昨日書かなかったツッコミについて2点。まず、「入居者の多くは、知的障害を有し」とある点。いやいや、障がい者グループホームなんだから、みんな障害ありますがな、と。原告ご本人も仰る、通りこれはちょっと？な説示でしたね。
 <p class="idt">
@@ -366,9 +357,8 @@
 ---
 2024年9月6日
 
-```{raw} html
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">さざんか会事件解説続けます。今日から最低賃金法の話ですが、前提として理論の話です。大星ビル管理事件最高裁判決は、夜間仮眠時間を「労基法上の」労働時間として認める一方、労働契約に基づく賃金請求については否定しています。</p>&mdash; 黒葛原　歩 (@ATsZRA) <a href="https://twitter.com/ATsZRA/status/1831994304455451011?ref_src=twsrc%5Etfw">September 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-```
+
 <p class="idt">
 さざんか会事件解説続けます。今日から最低賃金法の話ですが、前提として理論の話です。大星ビル管理事件最高裁判決は、夜間仮眠時間を「労基法上の」労働時間として認める一方、労働契約に基づく賃金請求については否定しています。  
 <div class="base sd-card" style="border: 3.2px solid #8045e533; padding-right: 1rem; padding-left: 1rem;">
@@ -455,9 +445,7 @@
 ---
 2024年9月7日
 
-```{raw} html
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">さて、今日は橋本陽子教授の論文の内容を少し紹介します。以前も言及した「最近のドイツにおける労働時間法の展開について」（和田肇先生古稀記念論文集『労働法の正義を求めて』441頁以下）です。</p>&mdash; 黒葛原　歩 (@ATsZRA) <a href="https://twitter.com/ATsZRA/status/1832307789248528636?ref_src=twsrc%5Etfw">September 7, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-```
 
 <p class="idt">
 今日も後ほど書きますが、少しドイツ法の話が続きます。なんでこれが必要かというと、8/23読売に載った橋本陽子先生の政策提言は、近年のドイツ労働判例のことを知らないと、提言の合理性が理解し難いところがあるからです。
@@ -539,9 +527,7 @@
 ---
 2024年9月28日
 
-```{raw} html
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">さざんか会事件の解説、若干、再開しましょうね。例の、地裁の最低賃金に関する説示を見て行きましょう。この事件で一番物議を醸したところで、その後、別のところで「業界に激震が走った」なんて話も耳にしました。</p>&mdash; 黒葛原　歩 (@ATsZRA) <a href="https://twitter.com/ATsZRA/status/1840005967871906121?ref_src=twsrc%5Etfw">September 28, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-```
 
 <p class="idt">
 さざんか会事件の解説、若干、再開しましょうね。例の、地裁の最低賃金に関する説示を見て行きましょう。この事件で一番物議を醸したところで、その後、別のところで「業界に激震が走った」なんて話も耳にしました。
@@ -649,9 +635,8 @@
 ---
 2024年10月19日
 
-```{raw} html
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">さざんか会事件の解説続き。しばらく休んでましたが今日はちょこっとだけ。休憩の位置付けについてです。労働法の理屈だと、休憩時間は労働からの完全な解放が保障されなければなりません。グループホームの夜勤はワンオペのところも多いので、休憩をどう扱うか、しばしば問題になります</p>&mdash; 黒葛原　歩 (@ATsZRA) <a href="https://twitter.com/ATsZRA/status/1847455781857481060?ref_src=twsrc%5Etfw">October 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-```
+
 <p class="idt">
 さざんか会事件の解説続き。しばらく休んでましたが今日はちょこっとだけ。休憩の位置付けについてです。労働法の理屈だと、休憩時間は労働からの完全な解放が保障されなければなりません。グループホームの夜勤はワンオペのところも多いので、休憩をどう扱うか、しばしば問題になります
 <p class="idt">
@@ -685,9 +670,8 @@
 ---
 2024年11月1日
 
-```{raw} html
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">さて、超久しぶりにさざんか会事件の解説を書きます。高裁判決が夜勤時間帯について通常の賃金と異なる時間給の定めを置くための要件とした別段の合意の「趣旨と内容」について。実は最近また似たような事件をお受けしたので、深掘りしなくちゃとなりました。</p>&mdash; 黒葛原　歩 (@ATsZRA) <a href="https://twitter.com/ATsZRA/status/1852268246785011768?ref_src=twsrc%5Etfw">November 1, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-```
+
 <p class="idt">
 さて、超久しぶりにさざんか会事件の解説を書きます。高裁判決が夜勤時間帯について通常の賃金と異なる時間給の定めを置くための要件とした別段の合意の「趣旨と内容」について。実は最近また似たような事件をお受けしたので、深掘りしなくちゃとなりました。
 <p class="idt">

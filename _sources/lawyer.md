@@ -1,15 +1,10 @@
-<span style="color: #8045e5;"><i class="fa-solid fa-house"></i></span> [Home](index)
-
 # <span style="color: #8045e5;">法曹関係者の見解</span>
 
 <span style="font-size: 24px;">労働時間制に関する法曹関係者の見解のリンクです</span>
 
 ## 師子角允彬弁護士の解説
 ---
-
-```{raw} html
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">はてなブログに投稿しました<br>グループホームの泊まり勤務（夜勤時間帯）の労働時間性が認められた例 - 弁護士　師子角允彬のブログ <a href="https://t.co/fU2nX3rMU6">https://t.co/fU2nX3rMU6</a><a href="https://twitter.com/hashtag/%E3%81%AF%E3%81%A6%E3%81%AA%E3%83%96%E3%83%AD%E3%82%B0?src=hash&amp;ref_src=twsrc%5Etfw">#はてなブログ</a></p>&mdash; 弁護士 師子角允彬 (@n_shishikado) <a href="https://twitter.com/n_shishikado/status/1720095124020236408?ref_src=twsrc%5Etfw">November 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-```
 
 ## 芦原一郎弁護士の解説
 ---

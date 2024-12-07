@@ -42,12 +42,18 @@ p {
   line-height: 2.5;
   }
 
+.search-button-field {
+  display: none !important;
+  }
 .bd-sidebar::-webkit-scrollbar {
   display: none;
   }
 .bd-sidebar {
   -ms-overflow-style: none;
   scrollbar-width: none;
+  }
+  a:active, a:visited {
+    color: #4A90E2;
   }
 .caption {
   margin-right: 0;
