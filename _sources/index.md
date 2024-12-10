@@ -1,11 +1,9 @@
-# <span style="color: #8045e5;">さざんか会事件解説</span>
+# さざんか会事件解説
 
 <span style="font-size: 24px;">障害者グループホームの労働時間性を巡る裁判について</span>
 
 ## ウェブサイトについて
 ---
-さざんか会事件の代理人「[黒葛原歩弁護士の解説](party)」、「[法曹関係者の見解](lawyer)」で構成されています。
-
 <div class="base">
 
 ::::{grid} 1 1 2 2
@@ -22,6 +20,7 @@
 ^^^
 さざんか会事件の解説、原告本人のコメントもあります
 :::
+
 :::{grid-item-card}
 :link: lawyer
 :link-type: doc
@@ -34,16 +33,14 @@
 :::
 
 ::::
+
 </div>
 
 千葉県内の社会福祉法人さざんか会で働いていた労働者が、泊まり勤務中の夜勤時間帯の残業代支払いなどを求めた裁判について、代理人の黒葛原歩弁護士の解説をまとめています。原告本人もコメントを寄せています。本件訴訟は、労働時間性が認められ、原告が勝訴しました。
 
 ## さざんか会事件とは
 ---
-
-```{raw} html
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">千葉県内の社会福祉法人で働いていた労働者が、泊まり勤務における夜勤時間帯の残業代支払いなどを求めた裁判で、東京高等裁判所は一審判決を大きく変更し、同法人に650万円の支払いを命じた。<a href="https://t.co/sBFTNrpJ84">https://t.co/sBFTNrpJ84</a></p>&mdash; 労働新聞ニュース (@RodoShimbunNews) <a href="https://twitter.com/RodoShimbunNews/status/1816465424894058620?ref_src=twsrc%5Etfw">July 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-```
 
 ## グループホーム関連のウェブサイト
 ---
@@ -76,12 +73,14 @@
 
 [理学療法士学生の実習問題を問う](http://www.ptjisyu.com/index.html)
 :::
+
 :::{grid-item-card}
 :class-header: bg-light text-center
 **はてなブログ・note**
 ^^^
 ≪ 作成中 ≫
 :::
+
 :::{grid-item-card}
 :class-header: bg-light text-center
 **オンライン署名 Change**

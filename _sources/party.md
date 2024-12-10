@@ -1,4 +1,4 @@
-# <span style="color: #8045e5;">黒葛原歩弁護士の解説</span>
+# 黒葛原歩弁護士の解説
 
 <span style="font-size: 24px;">さざんか会事件の解説、原告本人のコメントもあります</span>
 
