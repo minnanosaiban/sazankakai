@@ -36,11 +36,16 @@
 
 </div>
 
-千葉県内の社会福祉法人さざんか会で働いていた労働者が、泊まり勤務中の夜勤時間帯の残業代支払いなどを求めた裁判について、代理人の黒葛原歩弁護士の解説をまとめています。原告本人もコメントを寄せています。本件訴訟は、労働時間性が認められ、原告が勝訴しました。
+千葉県内の社会福祉法人さざんか会の従業員が、泊まり勤務中の夜勤時間帯の残業代支払いなどを求めた裁判について、代理人の黒葛原歩弁護士の解説をまとめています。原告本人もコメントを寄せています。本件訴訟は、労働時間性が認められ、原告が勝訴しました。
 
 ## さざんか会事件とは
 ---
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">千葉県内の社会福祉法人で働いていた労働者が、泊まり勤務における夜勤時間帯の残業代支払いなどを求めた裁判で、東京高等裁判所は一審判決を大きく変更し、同法人に650万円の支払いを命じた。<a href="https://t.co/sBFTNrpJ84">https://t.co/sBFTNrpJ84</a></p>&mdash; 労働新聞ニュース (@RodoShimbunNews) <a href="https://twitter.com/RodoShimbunNews/status/1816465424894058620?ref_src=twsrc%5Etfw">July 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## 原告と代理人の <i class="fa-brands fa-x-twitter"></i> アカウント
+---
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">さざんか会事件解説①<br>　いつの間に黒葛原先生のさざんか会事件の解説が始まっておった。<br>　★ポイント<br>社会福祉法人Ａ会事件＝さざんか会事件<br>千葉地裁判決⇒原告（私）は、時間単価が750円となぜか最低賃金以下の計算方法だったので、納得いかず控訴<br>東京高裁⇒原告全面勝訴<a href="https://t.co/GYyzJKYBHx">https://t.co/GYyzJKYBHx</a></p>&mdash; Tadashi Sakurai (@tad61487) <a href="https://twitter.com/tad61487/status/1827002499578138932?ref_src=twsrc%5Etfw">August 23, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">昨日、読売さんの記事が出たので少し呟きます。社会福祉法人さざんか会事件（雑誌では社会福祉法人A事件とされます）において控訴審は地裁判決を破棄し、労働者側の請求を全面的に認容しました。一審が夜勤時間の単価を最低賃金以下の金額で合意していたという判断を破棄したものです。</p>&mdash; 黒葛原　歩 (@ATsZRA) <a href="https://twitter.com/ATsZRA/status/1826917425297903765?ref_src=twsrc%5Etfw">August 23, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## グループホーム関連のウェブサイト
 ---
